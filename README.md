@@ -13,6 +13,7 @@ Selenium scripts:
 [QA-Exercise.side.zip](https://github.com/barronluis/QA-Exercise/files/8755459/QA-Exercise.side.zip)
 
 And the postman results:
+
 1.
 <img width="1305" alt="Screen Shot 2022-05-23 at 9 18 37" src="https://user-images.githubusercontent.com/105809820/169840238-376d9ad5-7dda-49ca-9b56-3c7c78118c39.png">
 
