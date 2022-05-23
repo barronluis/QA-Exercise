@@ -3,12 +3,14 @@ Repo for the QA hw
 
 Here is the document for the QA-Exercise:
 
-[QA_InterviewExercise.pdf](https://github.com/barronluis/QA-Exercise/files/8755432/QA_InterviewExercise.pdf)
+[QA-Exercise.pdf](https://github.com/barronluis/QA-Exercise/files/8755446/QA-Exercise.pdf)
+
 
 And here are the scripts for the web features tests:
 
 Selenium scripts:
-[QA-Exercise.side.zip](https://github.com/barronluis/QA-Exercise/files/8751513/QA-Exercise.side.zip)
+
+[QA-Exercise.side.zip](https://github.com/barronluis/QA-Exercise/files/8755459/QA-Exercise.side.zip)
 
 And the postman results:
 1.
